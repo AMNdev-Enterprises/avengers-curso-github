@@ -2,6 +2,5 @@
 
 * Dr. Doom
 * Red Skull
-* Dr. Maligno
-
+* Capitán América
 
